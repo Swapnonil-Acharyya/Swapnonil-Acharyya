@@ -13,21 +13,21 @@
 
 - 👯 I’m looking to collaborate on **passionate coders for building the Shopping Website.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Swapnonil-Acharyya](GitHub)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Swapnonil-Acharyya)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/swapnonilacharyya](LinkedIn)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/swapnonilacharyya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 💬 Ask me about **Front End Development, Automation Testing.**
 
 - 📫 How to reach me **teamswapnonil@gmail.com**
 
-- 📄 Know about my experiences at my [https://swapnonil-portfolio.netlify.app](Portfolio)
+- 📄 Know about my experiences at my [Portfolio](https://swapnonil-portfolio.netlify.app/?trk=public_profile_project-button)
 
 - ⚡ Fun fact **I create good stuffs :))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/swapnonilacharyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnonilacharyya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/swapnonilacharyya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnonilacharyya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
