@@ -13,15 +13,15 @@
 
 - 👯 I’m looking to collaborate on **passionate coders for building the Shopping Website.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Swapnonil-Acharyya](https://github.com/Swapnonil-Acharyya)
+- 👨‍💻 All of my projects are available at [https://github.com/Swapnonil-Acharyya](GitHub)
 
-- 📝 I regularly write articles on [m/in/swapnonilacharyya](m/in/swapnonilacharyya)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/swapnonilacharyya](LinkedIn)
 
 - 💬 Ask me about **Front End Development, Automation Testing.**
 
 - 📫 How to reach me **teamswapnonil@gmail.com**
 
-- 📄 Know about my experiences [https://swapnonil-portfolio.netlify.app](https://swapnonil-portfolio.netlify.app)
+- 📄 Know about my experiences at my [https://swapnonil-portfolio.netlify.app](Portfolio)
 
 - ⚡ Fun fact **I create good stuffs :))**
 
